@@ -1,6 +1,6 @@
 👋 Hi, I’m kiki
 
-🌱 I’m currently learning app dev!
+🌱 I’m currently learning Python
 
 <!---
 kiki-kf/kiki-kf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
